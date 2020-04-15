@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "malloc_block_list.c"
+#include "malloc.c"
 //#include <stdlib.h>
 #define NUM_ITERATIONS 100000
 int main() {
